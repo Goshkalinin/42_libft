@@ -1,0 +1,1 @@
+https://learn.microsoft.com/ru-ru/cpp/preprocessor/hash-include-directive-c-cpp?view=msvc-170

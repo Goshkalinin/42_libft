@@ -1,0 +1,5 @@
+/books/
+/libft-unit-test/
+/test/
+*.o
+*.so
